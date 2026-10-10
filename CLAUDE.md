@@ -19,5 +19,8 @@ Be detailed in all replies, assume little understanding of machine learning mode
 HOW TO IMPLEMENT:
 Find good data sources online, and plan using Opus 5.5 agents on Extra High to plan the best model for us. Then implement the code using a lower cost sonnet agent, before verifying it against the plan with an Opus agent again to ensure it compiles correctly and follows the necessary plan. 
 
+FINAL OUTPUT:
+Present the exact values per question we need to enter as well as the bet we should put on for each question.
+
 BEFORE TOUCHING THE CODEBASE:
 Read through this file, and report any clarifiying questions back to us.
