@@ -5,7 +5,7 @@ The questions are getting us to estimate a real world future event.
 The range of acceptable answers varies per question, and the returns from it vary too.
 Typically though, the returns follow a structure of getting your bet * 2.5 for an answer in the 'bullseye' range, abd your bet * 1.75 for an answer in the 'partial' range.
 Any answer outside these ranges will result in losing all coins placed on that bet.
-Find each screenshot with the exact details in the base of this repository.
+Find each screenshot with the exact details in the week2qs folder of this repository.
 
 We aim to either find reliable models that already predict the value we aim to find, or train our own models by finding good data sources and training a basic machine learning model on it.
 The models will also need variance of answers, as we need a likelihood of our given answer falling in each range, bullseye partial or failure. 
